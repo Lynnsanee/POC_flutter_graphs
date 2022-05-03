@@ -2,4 +2,5 @@
 
 A flutter graphing example for my blog
 
-# blog link
+# blog post link
+https://lynnsanee.sce-saxion.nl/fluttering-higher-line-charts-and-bar-charts/
